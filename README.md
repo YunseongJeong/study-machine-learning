@@ -22,7 +22,7 @@ machine learning study (AID)
 |2|5장 서포트 벡터 머신|...|차지원|
 |2|...|...|하석현|
 |2|RHO-1: Not All Tokens are...|[블로그](https://yunseong.tistory.com/entry/RHO-1-Not-All-Tokens-are-What-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)|정윤성|
-|3|6장 결정 트리|[test](./presentation_archive)|정윤성|
+|3|6장 결정 트리|[archive](./presentation_archive/6장\ 결정\ 트리.ipynb)|정윤성|
 |3|7장 앙상블 학습과 랜덤 포레스트|...|하석현|
 |3|...|...|...|
 |3|...|...|...|
