@@ -18,7 +18,7 @@ machine learning study (AID)
 |1|2장 머신러닝 프로젝트|[노션](https://www.notion.so/hands-on-machine-learning-2-f9abe273f5454a9984c04fe1ed79b451?pvs=4)|정윤성|
 |1|Grokking: Generalization...|[블로그](https://yunseong.tistory.com/entry/Grokking-Generalization-Beyond-Overfitting-on-Small-Algorithmic-Datasets-논문-리뷰)|정윤성|
 |2|3장 분류|[블로그](https://ai0-0jiyun.tistory.com/2)|송지윤|
-|2|4장 모델 훈련|...|우민수|
+|2|4장 모델 훈련|[archive](./presentation_archive)|우민수|
 |2|5장 서포트 벡터 머신|...|차지원|
 |2|...|...|하석현|
 |2|RHO-1: Not All Tokens are...|[블로그](https://yunseong.tistory.com/entry/RHO-1-Not-All-Tokens-are-What-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)|정윤성|
@@ -28,7 +28,7 @@ machine learning study (AID)
 |3|...|...|...|
 |3|...|...|...|
 |4|8장 차원 축소|...|차지원|
-|4|9장 비지도 학습|...|우민수|
+|4|9장 비지도 학습|[archive](./presentation_archive)|우민수|
 |4|10장 케라스|...|송지윤|
-|5|11장 심층 신경망 훈련|...|정윤성|
+|5|11장 심층 신경망 훈련|[archive](./presentation_archive)|정윤성|
 |5|AutoML|...|송지윤|
