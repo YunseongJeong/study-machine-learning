@@ -24,11 +24,11 @@ machine learning study (AID)
 |2|RHO-1: Not All Tokens are...|[블로그](https://yunseong.tistory.com/entry/RHO-1-Not-All-Tokens-are-What-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)|정윤성|
 |3|6장 결정 트리|[archive](./presentation_archive)|정윤성|
 |3|7장 앙상블 학습과 랜덤 포레스트|...|하석현|
-|3|...|...|...|
+|3|LoRA 기법에 대해서|[블로그](https://ai0-0jiyun.tistory.com/6)|송지윤|
 |3|...|...|...|
 |3|...|...|...|
 |4|8장 차원 축소|...|차지원|
 |4|9장 비지도 학습|[archive](./presentation_archive)|우민수|
-|4|10장 케라스|...|송지윤|
+|4|10장 케라스|[블로그](https://ai0-0jiyun.tistory.com/7)|송지윤|
 |5|11장 심층 신경망 훈련|[archive](./presentation_archive)|정윤성|
-|5|AutoML|...|송지윤|
+|5|AutoML|[블로그](https://ai0-0jiyun.tistory.com/8)|송지윤|
