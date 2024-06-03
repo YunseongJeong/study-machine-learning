@@ -1,4 +1,4 @@
-# study-machineLearning
+# study-machine-learning
 ---
 machine learning study (AID)
 교재 : 핸즈온 머신러닝(3판)
